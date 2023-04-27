@@ -20,7 +20,7 @@ https://citibikenyc.com/system-data
 
 https://s3.amazonaws.com/tripdata/index.html
 
- - 24 csv files used from 202110-citibike-tripdata.csv through to 202303-citibike-tripdata.csv 
+ - 6 csv files used from 202110-citibike-tripdata.csv through to 202303-citibike-tripdata.csv 
 
 
 ## Technologies Used
