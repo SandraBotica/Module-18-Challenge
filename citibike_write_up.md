@@ -1,20 +1,19 @@
 
-## This visualisation aims to inform CitiBike and City Officials about usage of bikes in NYC from October 2022 to March 2023.
+## This visualisation aims to inform CitiBike and City Officials about usage of bikes in NYC.
 
-### There are 2 parts to this story.
+### There are 2 parts to this story. 
 
 ### Part 1 - First 4 Dashboards.
 
 ## What can we learn about ridership trends based on the **Total Rides** and **Average Trip Duration** per Year, Season, Month, Day of the Week and Hour of the Day.
-
 ### - Features of Dashboard 1 - "Total Trips" (Year/Month/Season)
 
  - It shows the number of Total Rides..
  - The small bar chart shows the percentage of Total Rides for each year. 
  - If you select a year on this bar chart the horizontal bar chart below will display the total rides per month for that year.
  - Months have been colored according to season and display the seasonal variations in number of rides.
- - As can be expected a seasonal wave of total rides appears from largest to smallest: Summer, Autumn, Spring then Winter. Please be aware that the original 2 years of data had summer months included.
- - Select a season to see the associated months over the 6 months and if ridership is increasing or decreasing. Ridership is increasing in every month.
+ - As can be expected a seasonal wave of total rides appears from largest to smallest: Summer, Autumn, Spring then Winter. 
+ - Select a season to see the associated months and if ridership is increasing or decreasing.
 
  - Citibike can use this Dasboard to monitor growth trends and help ascertain if they have enough bikes and stations to accomodate this change in ridership. Citibike may also need to meet with City Officials to discuss Town Planning to accomodate this potential growth.
  
@@ -30,7 +29,7 @@
  - Few rides between 12pm to 5am.
 
  - Tuesday and Wednesday, followed by Thursday and Monday have highest number of rides.
- - Saturday and Sunday have less rides and more occur later in the day, especially during Summer and Autumn. Again, keep in mind this analysis was originally done over 2 year's, hence reference to summer.
+ - Saturday and Sunday have less rides and more occur later in the day, especially during Summer and Autumn. 
 
  - 11pm-4am more rides Sat/Sun. 
  - 5-9am more rides Mon-Fri.
@@ -47,7 +46,7 @@
  - The vertical bar graph shows the average trip duration in seconds for each year and the percentage of decline from one year to the next.
  - Average Trip Duration is declining.
 
- - Select a year on the vertical bar graph and it's associated month and average trip duration with percentage decline over the 6 months will appear.
+ - Select a year on the vertical bar graph and it's associated month and average trip duration with percentage decline will appear.
 
  - Interesting data from the original 2 year analysis.
  - Why such long rides in June 2021 & Jan 2022?
@@ -61,10 +60,7 @@
 
  - Summer, followed by Spring and Autumn have riders taking longer rides then in Winter.
 
- - Lowest Month - February 2023 had an average trip duration of 764.8 seconds (~ 13 minutes ride)
- - Highest Month - January 2022 had an average trip duration of 1263 seconds (~ 21 minutes)
-
- - Citibike can use the data from  dashboard 3 and 4 to monitor average trip durations and whether the frequency of service on bikes is required less often if declining in length of rides.
+ - Citibike can use the data from dashboard 3 and 4 to monitor average trip durations and whether the frequency of service on bikes is required less often if declining in length of rides.
  
 
 ### Part 2 - Last 2 Dashboards.
